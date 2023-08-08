@@ -5,6 +5,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//read the real time stream data from Wikimedia and write data to the topic
 @SpringBootApplication
 public class SpringBootProducerApplication implements CommandLineRunner {
 
